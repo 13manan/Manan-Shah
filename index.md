@@ -22,7 +22,7 @@ I completed my Bachelors in Mechanical Engineering from S V National Institute o
 - Reformulated the graph coarsening operation into equivalent linear algebra BLAS-3 operation on adjacency matrix
 - Obtained speedup of 10X on combined CPU-GPU system over CPU environment
 
-### Data Analysis of CPU and GPU Architectures}{Data Analysis and Visualization
+### Data Analysis of CPU and GPU Architectures
 - Random Forest Regression Model with Bootstrap Sampling is used to predict  power requirement of architectures as a function of its specifications
 - Able to predict power requirement within 20% error from the specifications
 
